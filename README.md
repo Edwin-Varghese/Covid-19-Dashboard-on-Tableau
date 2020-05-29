@@ -8,3 +8,6 @@ Data Credits:
 * European CDC
 * Johns Hopkins University 
 * Worldometers
+
+Dashboard URL:
+https://public.tableau.com/profile/edwin.varghese#!/vizhome/Covid-19Dashboard_15852269578320/COVID-19GlobalSummary
